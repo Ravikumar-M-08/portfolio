@@ -46,7 +46,7 @@ function Education() {
                         </div>
                     </div>
                 </div>
-                <div className="row mt-5">
+                <div className="row mt-4">
                     <div className="col-lg-6 col-md-6 class class-odd">
                         <div className="dot"></div>
                         <div className="timeline-date">2024</div>
