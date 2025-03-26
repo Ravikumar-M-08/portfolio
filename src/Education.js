@@ -13,7 +13,7 @@ function Education() {
                             </p>
                         </div>
                     </div>
-                    <div className="col-lg-6 col-md-6 col-12 education_profile">
+                    <div className="col-lg-6 col-md-6 col-12 education_profile mb-3">
                         <div className="edu_img">
                             <div className="profile">
                                 <img src="./rk.jpeg" alt="" />
@@ -46,7 +46,7 @@ function Education() {
                         </div>
                     </div>
                 </div>
-                <div className="row mt-4">
+                <div className="row">
                     <div className="col-lg-6 col-md-6 class class-odd">
                         <div className="dot"></div>
                         <div className="timeline-date">2024</div>
