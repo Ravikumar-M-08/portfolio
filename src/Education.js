@@ -13,7 +13,7 @@ function Education() {
                             </p>
                         </div>
                     </div>
-                    <div className="col-lg-6 col-md-6 col-12 education_profile mb-5">
+                    <div className="col-lg-6 col-md-6 col-12 education_profile pb-5">
                         <div className="edu_img">
                             <div className="profile">
                                 <img src="./rk.jpeg" alt="" />
